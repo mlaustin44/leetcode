@@ -11,3 +11,4 @@ Solutions to leetcode problems.  Currently in a mix of python and C++.
 | Solved | 371  | Sum of Two Integers | [C++](./371-sum-two-integers/solution.cpp)                    | Binary   |
 | Solved | 104  | Max Depth of Binary Tree   | [C++](./104-max-depth-binary-tree/solution.cpp)<br />[Python](./104-max-depth-binary-tree/solution.py) | String   |
 | Solved | 153  | Minimum in Rotated Sorted Array | [C++](./153-minimum-rotated-sorted-array/solution.cpp)                    | Array   |
+| Solved | 207  | Course Schedule | [Python](./207-course-schedule/solution.py)                    | Graph   |
