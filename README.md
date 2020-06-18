@@ -13,3 +13,4 @@ Solutions to leetcode problems.  Currently in a mix of python and C++.
 | Solved | 153  | Minimum in Rotated Sorted Array | [C++](./153-minimum-rotated-sorted-array/solution.cpp)                    | Array   |
 | Solved | 207  | Course Schedule | [Python](./207-course-schedule/solution.py)                    | Graph   |
 | Solved | 322  | Coin Change | [C++](./322-coin-change/solution.cpp)                    | Dynamic   |
+| Solved | 121  | Best Time to Buy and Sell Stocks | [Python](./121-best-time-buy-sell-stock) | Array |
