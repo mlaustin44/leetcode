@@ -15,3 +15,4 @@ Solutions to leetcode problems.  Currently in a mix of python and C++.
 | Solved | 322  | Coin Change | [C++](./322-coin-change/solution.cpp)                    | Dynamic   |
 | Solved | 417  | Pacific Atlantic Water Flow | [C++](./417-pacific-atlantic-water-flow/solution.cpp)  | Graph   |
 | Solved | 121  | Best Time to Buy and Sell Stocks | [Python](./121-best-time-buy-sell-stock/solution.py) | Array |
+| Solved | 295  | Find Median from Data Stream | [C++](./295-median-from-data-stream/solution.cpp) | Heap |
