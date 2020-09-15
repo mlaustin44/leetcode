@@ -16,3 +16,4 @@ Solutions to leetcode problems.  Currently in a mix of python and C++.
 | Solved | 417  | Pacific Atlantic Water Flow | [C++](./417-pacific-atlantic-water-flow/solution.cpp)  | Graph   |
 | Solved | 121  | Best Time to Buy and Sell Stocks | [Python](./121-best-time-buy-sell-stock/solution.py) | Array |
 | Solved | 295  | Find Median from Data Stream | [C++](./295-median-from-data-stream/solution.cpp) | Heap |
+| Solved | 200  | Number of Islands | [Python](./200-number-of-islands/solution.py) | Graph |
