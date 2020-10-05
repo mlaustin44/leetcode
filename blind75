@@ -1,7 +1,7 @@
 Array
 
 XX - Two Sum - https://leetcode.com/problems/two-sum/
-- Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+XX - Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
 - Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
 - Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
@@ -43,8 +43,8 @@ Graph
 
 XX - Clone Graph - https://leetcode.com/problems/clone-graph/
 XX- Course Schedule - https://leetcode.com/problems/course-schedule/
-- Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
-- Number of Islands - https://leetcode.com/problems/number-of-islands/
+XX- Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
+XX- Number of Islands - https://leetcode.com/problems/number-of-islands/
 - Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
 - Alien Dictionary (Leetcode Premium) - https://leetcode.com/problems/alien-dictionary/
 - Graph Valid Tree (Leetcode Premium) - https://leetcode.com/problems/graph-valid-tree/
@@ -120,4 +120,4 @@ Heap
 
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
-- Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
+XX- Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/

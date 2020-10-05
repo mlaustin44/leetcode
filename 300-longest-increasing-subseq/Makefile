@@ -1,10 +1,10 @@
-solution: solution.cpp
-	g++ -std=c++11 solution.cpp -o solution.o
+all: run
 
-run: solution.cpp
-	g++ -std=c++11 solution.cpp -o solution.o
+run: solution
 	./solution.o
+
+solution: solution.cpp
+	g++ -std=c++17 solution.cpp -o solution.o
 
 clean:
 	rm solution.o
-
