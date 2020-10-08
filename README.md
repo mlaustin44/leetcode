@@ -18,3 +18,4 @@ Solutions to leetcode problems.  Currently in a mix of python and C++.
 | Solved | 295  | Find Median from Data Stream | [C++](./295-median-from-data-stream/solution.cpp) | Heap |
 | Solved | 200  | Number of Islands | [Python](./200-number-of-islands/solution.py) | Graph |
 | Solved | 300  | Longest Increasing Subsequence | [C++](./300-longest-increasing-subseq/solution.cpp) | Dynamic |
+| Solved | 226  | Invert Binary Tree | [C++](./226-invert-binary-tree/solution.cpp) | Tree |
